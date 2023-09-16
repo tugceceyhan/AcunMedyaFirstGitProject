@@ -1,1 +1,2 @@
 Bu benimm yazdığım ilk repom
+Bu dosyada değişiklik yaptım
