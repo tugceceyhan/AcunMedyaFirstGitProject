@@ -1,2 +1,4 @@
 Bu benimm yazdığım ilk repom
 Bu dosyada değişiklik yaptım
+
+comfilit değişikliği -1
